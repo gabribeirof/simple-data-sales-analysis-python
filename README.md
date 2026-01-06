@@ -10,8 +10,8 @@ This project demonstrates a basic **ETL (Extract, Transform, Load)** pipeline. I
 - **Paradigm:** Clean and documented Procedural Programming in Python.
 
 ## How to Run
-1. Ensure you have Python and Pandas installed:
-   ```bash
-   pip install pandas
+1. Ensure you have Python and Pandas installed
+2. Run the script: python analysis.py
+  
 
 The script processes raw sales records and generates a category_report.csv, which summarizes total revenue by product category, helping in business decision-making.
